@@ -1,0 +1,10 @@
+# Database backups
+*.sql.gz
+ops_lab_*.sql
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.cnf.local
